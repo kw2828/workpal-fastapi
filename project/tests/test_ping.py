@@ -1,5 +1,6 @@
 # project/tests/test_ping.py
 
+
 def test_ping(test_app):
     # Given
     # test_app
